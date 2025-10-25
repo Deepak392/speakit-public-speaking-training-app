@@ -163,7 +163,3 @@ Project repository: [https://github.com/Deepak392/speakit-public-speaking-traini
 ---
 
 Thanks for checking out SpeakIt! We hope this tool helps you become a more confident, polished speaker. 🎙️
-
----
-
-Feel free to **copy-paste** this into your `README.md`, adjust any specific details (e.g., port numbers, additional instructions, styling preferences) and fill in your contact information. If you want, I can also help you generate **badges**, **GIF screenshots**, or **demo links** to make it more engaging.
